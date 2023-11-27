@@ -1,10 +1,11 @@
-# 🟣 Pecunia.Finance Github 🟣
+# Pecunia.Finance Github
 
 <p align="center">
   <a href="https://github.com/pecuniafinance">
-    <img width="150" src="https://user-images.githubusercontent.com/545047/195456198-c35bf731-255e-42b6-833b-e76df553eec8.svg">
+    <img width="150" src="https://github.com/pecuniafinance/.github/blob/main/profile/Logo_Dark.png">
   </a>
-  <h1>Web3 Project Management DAO - blockchain infrastructure builders, algorithmic traders, cyberpunks, and visionaries.<h1>
+  <h1>🟣 Web3 Project Management DAO 🟣<h1>
+  <h3>Blockchain infrastructure builders, algorithmic traders, cyberpunks, and visionaries.<h3>
 </p>
 
 ---
@@ -58,14 +59,3 @@ Checkout these related projects:
 AS DESCRIBED IN THE LICENSES, THE SOFTWARE IS PROVIDED “AS IS”, AT YOUR OWN RISK, AND WITHOUT WARRANTIES OF ANY KIND.
 
 No developer or entity involved in creating this software will be liable for any claims or damages whatsoever associated with your use, inability to use, or your interaction with other users of the code, including any direct, indirect, incidental, special, exemplary, punitive or consequential damages, or loss of profits, cryptocurrencies, tokens, or anything else of value.
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
