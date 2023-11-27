@@ -1,6 +1,5 @@
 # Pecunia.Finance Github
 
-<style style="visibility:hidden">h1 { border-bottom: 0; } </style>
 <p align="center">
   <a href="https://github.com/pecuniafinance">
     <img width="150" src="https://github.com/pecuniafinance/.github/blob/main/profile/Logo_Dark.png">
@@ -63,3 +62,5 @@ Checkout these related projects:
 AS DESCRIBED IN THE LICENSES, THE SOFTWARE IS PROVIDED “AS IS”, AT YOUR OWN RISK, AND WITHOUT WARRANTIES OF ANY KIND.
 
 No developer or entity involved in creating this software will be liable for any claims or damages whatsoever associated with your use, inability to use, or your interaction with other users of the code, including any direct, indirect, incidental, special, exemplary, punitive or consequential damages, or loss of profits, cryptocurrencies, tokens, or anything else of value.
+
+<style>h1 { border-bottom: 0; } </style>
