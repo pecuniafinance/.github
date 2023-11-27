@@ -1,19 +1,23 @@
 # Pecunia.Finance Github
 
+<style>h1 { border-bottom: 0; } </style>
 <p align="center">
   <a href="https://github.com/pecuniafinance">
     <img width="150" src="https://github.com/pecuniafinance/.github/blob/main/profile/Logo_Dark.png">
   </a>
-  <h1>🟣 Web3 Project Management DAO 🟣<h1>
-  <h3>Blockchain infrastructure builders, algorithmic traders, cyberpunks, and visionaries.<h3>
 </p>
-
----
+<p align="center" width="100%">
+  <h1 align="center">🟣 Web3 Project Management DAO 🟣</h1>
+  <h2 align="center">Blockchain Infrastructure Builders | Algorithmic Traders | Cyberpunks | Visionaries.</h2>
+</p>
 
 ## Links
 
 - [Website](https://pecuniafinance.com)
 - [Docs](https://docs.pecuniafinance.com)
+- [Discord](https://discord.gg/xV9urV3rHx)
+- [Twitter](https://twitter.com/PecuniaFinance)
+- [Medium](https://medium.com/@pecuniafinancedao/)
 
 ## Popular Repositories
 
