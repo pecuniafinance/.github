@@ -1,6 +1,6 @@
 # Pecunia.Finance Github
 
-<style>h1 { border-bottom: 0; } </style>
+<style style="visibility:hidden">h1 { border-bottom: 0; } </style>
 <p align="center">
   <a href="https://github.com/pecuniafinance">
     <img width="150" src="https://github.com/pecuniafinance/.github/blob/main/profile/Logo_Dark.png">
