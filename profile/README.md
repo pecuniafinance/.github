@@ -7,7 +7,7 @@
 </p>
 <p align="center" width="100%">
   <h1 align="center">🟣 Web3 Project Management DAO 🟣</h1>
-  <h2 align="center">Blockchain Infrastructure Builders | Algorithmic Traders | Cyberpunks | Visionaries.</h2>
+  <h2 align="center">Blockchain Infrastructure Builders | Algorithmic Traders | Cyberpunks | Visionaries</h2>
 </p>
 
 ## Links
@@ -62,5 +62,3 @@ Checkout these related projects:
 AS DESCRIBED IN THE LICENSES, THE SOFTWARE IS PROVIDED “AS IS”, AT YOUR OWN RISK, AND WITHOUT WARRANTIES OF ANY KIND.
 
 No developer or entity involved in creating this software will be liable for any claims or damages whatsoever associated with your use, inability to use, or your interaction with other users of the code, including any direct, indirect, incidental, special, exemplary, punitive or consequential damages, or loss of profits, cryptocurrencies, tokens, or anything else of value.
-
-<style>h1 { border-bottom: 0; } </style>
