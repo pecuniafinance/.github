@@ -7,7 +7,8 @@
 </p>
 <p align="center" width="100%">
   <h1 align="center">🟣 Web3 Project Management DAO 🟣</h1>
-  <h2 align="center">Blockchain Infrastructure Builders | Algorithmic Traders | Cyberpunks | Visionaries</h2>
+  <h2 align="center">Chain-Agnostic | Tokenless | Non-Profit</h2>
+  <h3 align="center">Turning Grants into digestible Bounties for Community Contributors</h3>
 </p>
 
 ## Links
@@ -20,11 +21,14 @@
 
 ## Popular Repositories
 
-- links to our most useful public repositories coming soon
+- [Fabrico Labs](https://github.com/pecuniafinance/fabrico-labs)
+- [Fork of Hummingbot/Gateway](https://github.com/pecuniafinance/gateway/tree/development)
+- [Osmosis Connector Docs for Hummingbot](https://github.com/pecuniafinance/hummingbot-site/tree/doc/osmosis)
+- [Osmosis Connector Guide for Osmosis Users](https://github.com/pecuniafinance/osmosis-hummingbot-guide-app)
 
 ## Vanity Funding
 
-If you like our tools, please consider donating to our non-profit LLC to fund more projects and tools:
+If you like our tools, please consider donating (we can find a good use for any token) to our non-profit LLC to fund more projects and tools:
 
 - ETH:
 - BTC:
@@ -32,6 +36,7 @@ If you like our tools, please consider donating to our non-profit LLC to fund mo
 - Cosmos:
 - Osmosis:
 - JUNO:
+- Solana: pecunia.sol | pecuniafinance.sol
 
 ## Related
 
